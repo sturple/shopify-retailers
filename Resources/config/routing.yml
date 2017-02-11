@@ -1,0 +1,20 @@
+
+fgms_retailers_install:
+    path: /install
+    defaults:
+        _controller: FgmsRetailersBundle:Install:install
+
+fgms_retailers_auth:
+    path: /auth
+    defaults:
+        _controller: FgmsRetailersBundle:Install:auth
+
+fgms_retailers_homepage:
+    path: /
+    defaults:
+        _controller: FgmsRetailersBundle:Default:home
+
+fgms_retailers_support:
+    path: /support
+    defaults:
+        _controller: FgmsRetailersBundle:Default:support
