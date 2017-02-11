@@ -1,9 +1,9 @@
 {
-    "name": "sturple/shopify-boilerplate",
-    "description": "Shopify Boilerplate (Embed)",
+    "name": "sturple/shopify-retailers",
+    "description": "Shopify Retailers (Embed)",
     "type": "symfony-bundle",
-    "keywords": ["shopify", "oauth","embed", "symfony"],
-    "homepage": "https://github.com/sturple/shopify-boilerplate",
+    "keywords": ["shopify", "oauth","embed", "symfony","retailer","geolocator"],
+    "homepage": "https://github.com/sturple/shopify-retailers",
     "license": "MIT",
     "authors": [
         {
